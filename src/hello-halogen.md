@@ -188,12 +188,19 @@ Nope. But I'm getting somewhere. `Result` wraps a type, so:
 Cool!! That looks like some parsed JSON! I have no idea if this is the _right_
 way to do things, but if all else fails, this will work.
 
-I'm ready to start writing some code now, but it's becoming clear that I'll need to make sure that the halogen-blog is actually setup with the appropriate files and directories. Let's first check in these changes, then create some structure and do some renaming:
+I'm ready to start writing some code now, but it's becoming clear that I'll
+need to make sure that the halogen-blog is actually setup with the appropriate
+files and directories. Let's first check in these changes, then create some
+structure and do some renaming:
 
     git add index.md
     git commit -m "trying out the markdown and json packages"
 
 [ce4d28f546650669beac3dd761aaad515a021776]()
+
+    mkdir src
+    git mv index.md src/hello-halogen.md
+    git commit -m "moves index.md to proper location at src/hello-halogen.md"
 
 ***
 
