@@ -52,7 +52,7 @@ directory that simply links to any post that has a publish timestamp earlier tha
 time the site was generated.
 
 It seems like a good time to check in this file.
-[462615cea5b5e971103d3d22a67fe8bd31789603]()
+[462615cea5b5e971103d3d22a67fe8bd31789603](https://github.com/npj/halogen-blog/commit/462615cea5b5e971103d3d22a67fe8bd31789603)
 
 ***
 
@@ -196,14 +196,16 @@ structure and do some renaming:
     git add index.md
     git commit -m "trying out the markdown and json packages"
 
-[ce4d28f546650669beac3dd761aaad515a021776]()
+[ce4d28f546650669beac3dd761aaad515a021776](https://github.com/npj/halogen-blog/commit/ce4d28f546650669beac3dd761aaad515a021776)
 
     mkdir src
     git mv index.md src/hello-halogen.md
     git commit -m "moves index.md to proper location at src/hello-halogen.md"
 
-[70fea1d6120870882d7fe6cd8b8b3aa1e66b0280]()
+[70fea1d6120870882d7fe6cd8b8b3aa1e66b0280](https://github.com/npj/halogen-blog/commit/70fea1d6120870882d7fe6cd8b8b3aa1e66b0280)
 
-***
+And, I'll set up the remote now so I can continue working tomorrow.
 
+    git remote add origin git@github.com:npj/halogen-blog.git
+    git push -u origin master
 
