@@ -193,6 +193,8 @@ I'm ready to start writing some code now, but it's becoming clear that I'll need
     git add index.md
     git commit -m "trying out the markdown and json packages"
 
+[ce4d28f546650669beac3dd761aaad515a021776]()
+
 ***
 
 
