@@ -202,6 +202,8 @@ structure and do some renaming:
     git mv index.md src/hello-halogen.md
     git commit -m "moves index.md to proper location at src/hello-halogen.md"
 
+[70fea1d6120870882d7fe6cd8b8b3aa1e66b0280]()
+
 ***
 
 
