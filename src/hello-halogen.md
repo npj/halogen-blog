@@ -1,3 +1,8 @@
+{
+  "title" : "Hello Halogen",
+  "publish_at" : "2015-06-28T19:07:00Z"
+}
+
 # Hello Halogen
 
 I need to make a directory for the project so I can begin writing this file. This
