@@ -31,4 +31,4 @@ I've always liked to think about handling error cases before focusing on the gen
 So the decode function returns a value wrapped in the `Result` type, which is
 either `Ok` followed by the data, or `Error` followed by the error message.
 
-[]()
+[b5963660b3073d2db69948f318e638bb81ea7696](https://github.com/npj/halogen-blog/commit/b5963660b3073d2db69948f318e638bb81ea7696)
