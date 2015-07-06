@@ -117,4 +117,4 @@ going to have to start writing some code. And since I'm at the end of this
 post, I'm going to rename it: "Coding Time, or So I Thought When I Started
 Writing."
 
-[]()
+[edcb08a5e21da4b8e93baf7bf630ecb8d00ae1f0](https://github.com/npj/halogen-blog/commit/edcb08a5e21da4b8e93baf7bf630ecb8d00ae1f0)
