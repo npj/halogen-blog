@@ -25,7 +25,7 @@ The above loads just fine in ghci, so I'll continue with an instance definition
 for FromJSON based on the `aeson` documentation (plus a few extra imports):
 
 [halogen: 20a049ce0fa88bf189dc647f6150168bdbf0413b](https://github.com/npj/halogen/commit/20a049ce0fa88bf189dc647f6150168bdbf0413b)
-[halogen-blog: ]()
+[halogen-blog: 071e2f56af662b820ba052fe3dd5ce1e6853cf65](https://github.com/npj/halogen-blog/commit/071e2f56af662b820ba052fe3dd5ce1e6853cf65)
 
 
 
