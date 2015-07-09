@@ -183,4 +183,5 @@ Yay! Using a new type in this way means I don't have to manually check the
 structure of the JSON, which is something with which I am all too familiar in
 dynamically typed languages.
 
-[halogen-blog: ]()
+[halogen-blog: 1e25f3771dcb53c4301625cba12e4020340c3680](https://github.com/npj/halogen-blog/commit/1e25f3771dcb53c4301625cba12e4020340c3680)
+
